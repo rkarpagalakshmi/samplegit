@@ -2,4 +2,8 @@
 this is file1...hotfix_branch
 =======
 this is file1...with new branch
+<<<<<<< HEAD
+>>>>>>> future_branch
+=======
+now merge
 >>>>>>> future_branch
